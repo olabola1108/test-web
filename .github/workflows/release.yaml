@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 name: release workflow
 
->>>>>>> 3074186 (okay)
 on: [workflow_dispatch]
 
 jobs:
