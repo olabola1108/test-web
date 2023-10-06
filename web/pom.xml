@@ -17,6 +17,8 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<sonar.organization>olabola1108</sonar.orhanization>
+		<sonar.host.url>https://sonarcloud.io/organizations/olabola1108/projects</sonar.host.url>
 	</properties>
 
 	<dependencies>
@@ -70,9 +72,9 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>a0nymgefaiwwu-artifactory-primary-0-releases</name>
-        <url>https://edshopdpt8.jfrog.io/artifactory/libs-release-local</url>
+        <name>a0wbeimnj7vof-artifactory-primary-0-releases</name>
+        <url>https://ahniyallc.jfrog.io/artifactory/3-tier-web-libs-release</url>
     </repository>
-</distributionManagement> 
+</distributionManagement>
 
 </project>
